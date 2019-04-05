@@ -1,0 +1,11 @@
+C:\Users\Daniela\source\repos\PIII-TP1-Winform-Rubinstein\PIII-TP1-Winform-Rubinstein\obj\Debug\PIII-TP1-Winform-Rubinstein.csprojAssemblyReference.cache
+C:\Users\Daniela\source\repos\PIII-TP1-Winform-Rubinstein\PIII-TP1-Winform-Rubinstein\obj\Debug\PIII_TP1_Winform_Rubinstein.Properties.Resources.resources
+C:\Users\Daniela\source\repos\PIII-TP1-Winform-Rubinstein\PIII-TP1-Winform-Rubinstein\obj\Debug\PIII-TP1-Winform-Rubinstein.csproj.GenerateResource.cache
+C:\Users\Daniela\source\repos\PIII-TP1-Winform-Rubinstein\PIII-TP1-Winform-Rubinstein\obj\Debug\PIII-TP1-Winform-Rubinstein.csproj.CoreCompileInputs.cache
+C:\Users\Daniela\source\repos\PIII-TP1-Winform-Rubinstein\PIII-TP1-Winform-Rubinstein\bin\Debug\PIII-TP1-Winform-Rubinstein.exe.config
+C:\Users\Daniela\source\repos\PIII-TP1-Winform-Rubinstein\PIII-TP1-Winform-Rubinstein\bin\Debug\PIII-TP1-Winform-Rubinstein.exe
+C:\Users\Daniela\source\repos\PIII-TP1-Winform-Rubinstein\PIII-TP1-Winform-Rubinstein\bin\Debug\PIII-TP1-Winform-Rubinstein.pdb
+C:\Users\Daniela\source\repos\PIII-TP1-Winform-Rubinstein\PIII-TP1-Winform-Rubinstein\obj\Debug\PIII-TP1-Winform-Rubinstein.exe
+C:\Users\Daniela\source\repos\PIII-TP1-Winform-Rubinstein\PIII-TP1-Winform-Rubinstein\obj\Debug\PIII-TP1-Winform-Rubinstein.pdb
+C:\Users\Daniela\source\repos\PIII-TP1-Winform-Rubinstein\PIII-TP1-Winform-Rubinstein\obj\Debug\PIII_TP1_Winform_Rubinstein.frmHome.resources
+C:\Users\Daniela\source\repos\PIII-TP1-Winform-Rubinstein\PIII-TP1-Winform-Rubinstein\obj\Debug\PIII_TP1_Winform_Rubinstein.frmPersona.resources
